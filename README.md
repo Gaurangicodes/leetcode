@@ -4,12 +4,14 @@ My LeetCode solutions, DSA practice, and progress.
 
 ## 📊 Progress
 
+<!-- LEETCODE_STATS_START -->
 | Difficulty | Solved |
-| ---------- | -----: |
-| 🟢 Easy    |     50 |
-| 🟡 Medium  |     12 |
-| 🔴 Hard    |      1 |
-| **Total**  | **63** |
+|------------|-------:|
+| 🟢 Easy | 50 |
+| 🟡 Medium | 12 |
+| 🔴 Hard | 1 |
+| **Total** | **63** |
+<!-- LEETCODE_STATS_END -->
 
 ## 💻 Languages
 
