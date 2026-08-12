@@ -7,10 +7,10 @@ My LeetCode solutions, DSA practice, and progress.
 <!-- LEETCODE_STATS_START -->
 | Difficulty | Solved |
 |------------|-------:|
-| 🟢 Easy | 50 |
+| 🟢 Easy | 51 |
 | 🟡 Medium | 12 |
 | 🔴 Hard | 1 |
-| **Total** | **63** |
+| **Total** | **64** |
 <!-- LEETCODE_STATS_END -->
 
 ## 💻 Languages
