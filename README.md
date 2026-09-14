@@ -8,9 +8,9 @@ My LeetCode solutions, DSA practice, and progress.
 | Difficulty | Solved |
 |------------|-------:|
 | 🟢 Easy | 56 |
-| 🟡 Medium | 15 |
+| 🟡 Medium | 17 |
 | 🔴 Hard | 1 |
-| **Total** | **72** |
+| **Total** | **74** |
 <!-- LEETCODE_STATS_END -->
 
 ## 💻 Languages
