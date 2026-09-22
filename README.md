@@ -40,4 +40,4 @@ My LeetCode solutions, DSA practice, and progress.
 
 > Solve consistently. Understand the pattern. Don't just collect problems.
 
-**Current total: 63 problems solved.**
+**Current total: 74 problems solved.**
